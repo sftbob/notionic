@@ -45,7 +45,7 @@ const BLOG = {
   telegramChatId: '263895784', // The chat id of your Telegram bot
   telegramChannelUrl: 'https://channel.zuolan.me/', // The link of your Telegram channel
   telegramChannelName: 'zuolan_me', // The name of your Telegram channel
-  craftConfigShareUrl: 'https://s.craft.me/YxIsxV8i2nAeo0', // The link to share your craft config
+  craftConfigShareUrl: 'https://s.craft.me/44TPi8BHs8nJ4i', // The link to share your craft config
   analytics: {
     provider: '', // Currently we support Google Analytics, Ackee, Umami and Cloudflare Insights, please fill with 'ga' or 'ackee' or 'umami' or 'cf', leave it empty to disable it.
     ackeeConfig: {
